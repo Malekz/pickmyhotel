@@ -1,4 +1,4 @@
-# pickmyhotel Project
+# PickMyHotel Project
 
 
 
